@@ -4,6 +4,7 @@ description: This resource includes information on the work of the semester in a
   designed by the studio and presented to the constituency in New Orleans.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/a8fadf1aae98b65b295d3c05774abbd6_neworleans_1.pdf
 file_type: application/pdf
+parent_uid: 4dabe028-4453-da72-0699-cadb37daea20
 resourcetype: Document
 title: neworleans_1.pdf
 uid: a8fadf1a-ae98-b65b-295d-3c05774abbd6

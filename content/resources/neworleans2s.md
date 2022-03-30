@@ -6,6 +6,7 @@ description: The work of the semester has been captured in a book designed by th
   used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/def1261ab8a95db961ecb24af0735d19_neworleans2s.pdf
 file_type: application/pdf
+parent_uid: 4dabe028-4453-da72-0699-cadb37daea20
 resourcetype: Document
 title: neworleans2s.pdf
 uid: def1261a-b8a9-5db9-61ec-b24af0735d19
