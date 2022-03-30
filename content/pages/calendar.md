@@ -4,44 +4,493 @@ title: Calendar
 uid: 96ecaed2-cf0f-6bca-0665-c1ce46091f51
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | 1st Studio  {{< br >}}  {{< br >}}Explanation of Project  {{< br >}}  {{< br >}}Handout Materials | Assignment 1 (New Orleans - Form and Climate) due |
-| 2 | Discussion/Work/Critiques |  |
-| 3 | Work/Critiques (cont.) |  |
-| 4 | Pin-up of Assignment 1 | Assignment 2 (New Orleans Observations) due |
-| 5 | Leave for New Orleans |  |
-| 6 | Visit New Orleans |  |
-| 7 | Visit New Orleans (cont.) |  |
-| 8 | Return from New Orleans |  |
-| 9 | Pin-up of Assignment 2 | Assignment 3 (First Pass at Overall Design: Quick Sketch/Junk Models @ 1/32" Scale) due |
-| 10 | Work/Critiques (cont.) |  |
-| 11 | Pin-up of Assignment 3 | Assignment 4 (Space Between and Horizontals/Verticals: Model @ 1/32" Scale) due |
-| 12 | Work/Critiques (cont.) |  |
-| 13 | Work/Critiques (cont.) |  |
-| 14 | Pin-up of Assignment 4 | Assignment 5 and 6 (Dwelling and Cluster Thoughts: Drawings and Models at 1/8" Scale) due |
-| 15 | Work/Critiques (cont.) |  |
-| 16 | Work/Critiques (cont.) |  |
-| 17 | Pin-up of Assignments 5 and 6 | Midterm Assignment 7 (Overall Design, Cluster Design and Dwelling Design: Drawings and Models at 1/16" Scale and 1/8" Scale) due |
-| 18 | Work/Critiques (cont.) |  |
-| 19 | Work/Critiques (cont.) |  |
-| 20 | Work/Critiques (cont.) |  |
-| 21 | Work/Critiques (cont.) |  |
-| 22 | Mid-term Review |  |
-| 23 | Work/Critiques (cont.) | Assignment 8 (Revised Design: Model @ 1/8" Scale) due 2 days before Ses #23 |
-| 24 | Pin-up of Assignment 8 | Sketch Assignment (Elevation Study) due |
-| 25 | Work/Critiques (cont.) |  |
-| 26 | Work/Critiques (cont.) |  |
-| 27 | Pin-up of Sketch Assignment | Assignment 9 (Developing a Chunk: Model @ 1/8" Scale) due |
-| 28 | Work/Critiques (cont.) |  |
-| 29 | Work/Critiques (cont.) |  |
-| 30 | Pin-up of Assignment 9 |  |
-| 31 | Work/Critiques (cont.) | Assignment 10 (Final Review) due 1 day before Ses #31 |
-| 32 | Work/Critiques (cont.) |  |
-| 33 | Work/Critiques (cont.) |  |
-| 34 | Work/Critiques / Pin-up of Work in Progress |  |
-| 35 | Work/Critiques (cont.) |  |
-| 36 | Work/Critiques (cont.) |  |
-| 37 | Work/Critiques (cont.) |  |
-| 38 | Work/Critiques (cont.) |  |
-| 39 | Last Studio - Final Review | Final Project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1st Studio  
+  
+Explanation of Project  
+  
+Handout Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 (New Orleans - Form and Climate) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion/Work/Critiques
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 1
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 (New Orleans Observations) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Leave for New Orleans
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Visit New Orleans
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visit New Orleans (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Return from New Orleans
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 2
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 (First Pass at Overall Design: Quick Sketch/Junk Models @ 1/32" Scale) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 3
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 (Space Between and Horizontals/Verticals: Model @ 1/32" Scale) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 4
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 and 6 (Dwelling and Cluster Thoughts: Drawings and Models at 1/8" Scale) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignments 5 and 6
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Assignment 7 (Overall Design, Cluster Design and Dwelling Design: Drawings and Models at 1/16" Scale and 1/8" Scale) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 (Revised Design: Model @ 1/8" Scale) due 2 days before Ses #23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 8
+{{< tdclose >}}
+{{< tdopen >}}
+Sketch Assignment (Elevation Study) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Sketch Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 (Developing a Chunk: Model @ 1/8" Scale) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Pin-up of Assignment 9
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 (Final Review) due 1 day before Ses #31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques / Pin-up of Work in Progress
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Critiques (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Last Studio - Final Review
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
